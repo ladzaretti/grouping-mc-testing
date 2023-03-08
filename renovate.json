@@ -1,5 +1,5 @@
 {
-  "extends": ["github>whitesource/merge-confidence:beta"],
+  "extends": ["github>mdp-forks/mc:dev"],
   "packageRules":[
     {
       "matchConfidence": ["high","very high"],
