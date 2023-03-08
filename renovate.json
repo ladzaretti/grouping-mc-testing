@@ -6,7 +6,7 @@
       "groupName": "high merge confidence dependencies"
     },
     {
-      "matchMergeConfidenceLevels": ["low","neutral"],
+      "matchMergeConfidence": ["low","neutral"],
       "enabled": false
     }
   ]
