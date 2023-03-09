@@ -1,5 +1,5 @@
 {
-  "extends": ["github>ladzaretti/mc-comapre:mc"],
+  "extends": ["github>ladzaretti/mc-compare:mc"],
   "packageRules":[
     {
       "matchConfidence": ["high","very high"],
