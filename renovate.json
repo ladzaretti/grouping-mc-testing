@@ -1,5 +1,5 @@
 {
-  "extends": ["github>mdp-forks/mc:dev"],
+  "extends": ["github>ladzaretti/mc-comapre:mc"],
   "packageRules":[
     {
       "matchConfidence": ["high","very high"],
