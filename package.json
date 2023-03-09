@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "luxon": "2.0.1",
-    "got": "11.8.3",
+    "luxon": "3.3.0",
+    "got": "12.6.0",
     "lodash": "4.0.0",
-    "eslint": "3.19.0"
+    "eslint": "8.35.0"
   }
 }
