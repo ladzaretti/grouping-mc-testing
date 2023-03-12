@@ -1,6 +1,6 @@
 {
   "extends": ["github>ladzaretti/mc-compare:mc"],
-  "packageRules":[
+  /*"packageRules":[
     {
       "matchConfidence": ["high","very high"],
       "groupName": "high merge confidence dependencies"
@@ -13,5 +13,5 @@
       "matchConfidence": ["low"],
       "enabled": false
     }
-  ]
+  ]*/
 }
