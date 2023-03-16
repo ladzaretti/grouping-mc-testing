@@ -3,6 +3,7 @@
   "packageRules":[
     {
       "matchConfidence": ["high","very high"],
+      "matchManagers":["npm"],
       "groupName": "high merge confidence dependencies"
     },
     {
