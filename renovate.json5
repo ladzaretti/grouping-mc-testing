@@ -10,9 +10,9 @@
       "matchConfidence": ["neutral"],
       "groupName": "neutral merge confidence dependencies"
     },
-   /* {
+   {
       "matchConfidence": ["low"],
-      "enabled": false
-    }*/
+      "groupName": "low merge confidence dependencies"
+    },
   ]
 }
