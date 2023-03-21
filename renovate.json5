@@ -1,5 +1,6 @@
 {
-  "extends": ["github>ladzaretti/mc-compare:mc"],
+  //"extends": ["github>ladzaretti/mc-compare:mc"],
+  "extends": ["github>whitesource/merge-confidence:beta"]
   "packageRules":[
     {
       "matchConfidence": ["high","very high"],
