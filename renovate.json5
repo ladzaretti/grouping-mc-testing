@@ -4,7 +4,7 @@
   "packageRules":[
     {
       "matchConfidence": ["high","very high"],
-      "matchManaagers":["npm"],
+      "matchManagers":["npm"],
       "groupName": "high merge confidence dependencies"
     },
     {
