@@ -3,7 +3,7 @@
   "extends": ["github>whitesource/merge-confidence:beta"],
   "packageRules":[
     {
-      "matchConfidence": ["high","very high"],
+      "matchConfideance": ["high","very high"],
       "matchManagers":["npm"],
       "groupName": "high merge confidence dependencies"
     },
